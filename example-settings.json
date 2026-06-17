@@ -3,7 +3,7 @@
     "anarm-tools": {
       "source": {
         "source": "github",
-        "repo": "anarm/claude-plugin-orchestrate"
+        "repo": "mammadovanar/claude-plugin-orchestrate"
       }
     }
   },

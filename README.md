@@ -8,11 +8,9 @@ Personal marketplace with one plugin, **orchestrate**:
 ## Install in the terminal (global, all projects)
 
 ```text
-/plugin marketplace add anarm/claude-plugin-orchestrate
+/plugin marketplace add mammadovanar/claude-plugin-orchestrate
 /plugin install orchestrate@anarm-tools
 ```
-
-(Replace `anarm/claude-plugin-orchestrate` with the actual GitHub `owner/repo` once pushed.)
 
 Then `/orchestrate-code <task>` works in any session, and the 8 agents appear in `/agents`.
 
@@ -24,7 +22,7 @@ Cloud sessions do NOT read your local `~/.claude/`. To make this plugin auto-ins
 {
   "extraKnownMarketplaces": {
     "anarm-tools": {
-      "source": { "source": "github", "repo": "anarm/claude-plugin-orchestrate" }
+      "source": { "source": "github", "repo": "mammadovanar/claude-plugin-orchestrate" }
     }
   },
   "enabledPlugins": {
