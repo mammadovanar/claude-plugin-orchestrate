@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "anarm-tools": {
+      "source": {
+        "source": "github",
+        "repo": "anarm/claude-plugin-orchestrate"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "orchestrate@anarm-tools": true
+  }
+}

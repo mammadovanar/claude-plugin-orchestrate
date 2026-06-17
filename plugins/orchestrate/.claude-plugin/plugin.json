@@ -1,0 +1,10 @@
+{
+  "name": "orchestrate",
+  "displayName": "Orchestrate",
+  "version": "1.0.0",
+  "description": "Google-style engineering change process (orchestrate-code skill) plus a roster of specialized subagents: Рекс (requirements), Спец (spec), Дима (author), Денис (debug), Фил (finance review), Зевс (UI review), Ральф (code review), Гена (release).",
+  "author": {
+    "name": "anarm"
+  },
+  "keywords": ["orchestration", "code-review", "release", "requirements", "subagents"]
+}
