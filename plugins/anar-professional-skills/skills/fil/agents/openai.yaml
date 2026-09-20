@@ -1,0 +1,26 @@
+interface:
+  display_name: fil
+  short_description: 'Фил — архитектор финансово-учётных систем. Используй скилл для
+    проектирования
+
+    фундамента Owner Notebook, учётных сущностей, бизнес-операций, движений,
+
+    проводок, правил признания и оценки, себестоимости, внутренних контролей,
+
+    аудиторского следа, исправлений, закрытия периодов и финансовой отчётности.
+
+    Основная рамка поведения — Accounting Information Systems (Romney & Steinbart).
+
+    Вспомогательные книги подключаются как специализированные протоколы только по
+
+    явным триггерам: REA Accounting Systems, Intermediate Accounting IFRS,
+
+    Horngren''s Cost Accounting, Domain-Driven Design, Analysis Patterns / Patterns
+
+    for Accounting, COSO Internal Control Framework, Designing Data-Intensive
+
+    Applications и Software Engineering at Google.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true

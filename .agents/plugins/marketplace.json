@@ -1,0 +1,20 @@
+{
+  "name": "anar-professional",
+  "interface": {
+    "displayName": "Anar Professional"
+  },
+  "plugins": [
+    {
+      "name": "anar-professional-skills",
+      "source": {
+        "source": "local",
+        "path": "./plugins/anar-professional-skills"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

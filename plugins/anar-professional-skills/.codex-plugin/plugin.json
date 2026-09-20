@@ -1,0 +1,18 @@
+{
+  "name": "anar-professional-skills",
+  "version": "0.1.0",
+  "description": "Six professional skills created by Anar for requirements, specifications, UX architecture, visual implementation, financial systems, and agent-system architecture.",
+  "author": {
+    "name": "Anar Mammadov"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Anar Professional Skills",
+    "shortDescription": "Six professional skills for product and engineering work.",
+    "longDescription": "Adds Fil, Spec, Zeus, Rex, Afina, and Architect Agent Systems to Codex while preserving their original skill instructions and reference libraries.",
+    "developerName": "Anar Mammadov",
+    "category": "Productivity",
+    "capabilities": ["skills"],
+    "defaultPrompt": "Use the most relevant Anar professional skill for this task."
+  }
+}
