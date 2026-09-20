@@ -1,0 +1,6 @@
+interface:
+  display_name: "Архитектор агентных систем"
+  short_description: "Проектирует агентов, навыки, Loop и оркестрацию"
+  default_prompt: "Используй $architect-agent-systems, чтобы спроектировать агентную систему и её рабочие Loop-контуры для моей задачи."
+policy:
+  allow_implicit_invocation: true
